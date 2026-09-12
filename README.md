@@ -1,0 +1,1 @@
+# Jpeg-Imager-Full-Version

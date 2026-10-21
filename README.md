@@ -240,4 +240,4 @@ This repository serves as the official landing page for JPEG Imager. The softwar
 **Get the most recent version of JPEG Imager today!**
 
 ---
-**Last updated:** 2026-10-21 07:03:44 UTC
+**Last updated:** 2026-10-21 13:26:11 UTC
